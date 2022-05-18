@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amelia-Wu
-- 👀 I’m interested in data analysis and machine learning
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning information technology majoring artificial intelligence
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me wxySH@outlook.com
 
