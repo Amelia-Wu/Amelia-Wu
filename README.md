@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amelia-Wu
-- 👩🏻‍💻 I’m currently learning information technology with a major in artificial intelligence
-- 👀 I’m looking to collaborate on interesting projects
+- 👩🏻‍💻 I’m currently learning information technology at The University of Melbourne
 - 📫 How to reach me wxySH@outlook.com
 
 <!---
