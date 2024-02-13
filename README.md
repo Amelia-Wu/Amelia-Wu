@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Amelia-Wu
-- 👩🏻‍💻 I’m currently learning information technology at The University of Melbourne
 - 📫 How to reach me wxySH@outlook.com
 
 <!---
